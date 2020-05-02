@@ -1,6 +1,7 @@
 # DroidCam v1.0
 ## Author: https://github.com/thelinuxchoice/DroidCam
 ## IG: https://www.instagram.com/linux_choice
+*Not associated with the "DroidCam Wireless Webcam" app*
 ### Don't copy this code without giving me the credits, nerd! 
 
 Script to generate an Android App to take photos from Cameras using Camera2 function on API 21.
